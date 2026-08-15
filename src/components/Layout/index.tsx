@@ -5,7 +5,7 @@ import { Outlet } from "react-router";
 export function Layout() {
   return (
     <div>
-      <header>
+      <header className="user">
         <p>Ola, Leandro</p>
       </header>
 
